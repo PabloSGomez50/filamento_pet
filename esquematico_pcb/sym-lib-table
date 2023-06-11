@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "filamento_pet-rescue")(type "KiCad")(uri "${KIPRJMOD}/filamento_pet-rescue.kicad_sym")(options "")(descr ""))
+)
